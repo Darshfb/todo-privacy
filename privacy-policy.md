@@ -5,7 +5,7 @@ Todo takes your privacy seriously. To better protect your privacy I provide this
 
 ## Collection of Routine Information
 
-This app track basic information about their users. This information includes, but is not limited to, IP addresses, app details, timestamps and referring pages. None of this information can personally identify specific user to this app. The information is tracked for routine administration and maintenance purposes.
+This app doens't track basic information about their users.
 
 
 ## Cookies
@@ -20,12 +20,12 @@ Advertising partners and other third parties may use cookies, scripts and/or web
 
 ## Security
 
-The security of your personal information is important to me, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While I strive to use commercially acceptable means to protect your personal information, I cannot guarantee its absolute security.
+The security of your personal information is important to me, but remember that This app doens't track basic information about their users.
 
 
 ## Changes To This Privacy Policy
 
-This Privacy Policy is effective as of 21/11/2022 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+This Privacy Policy is effective as of 29/11/2022 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
 
 I reserve the right to update or change my Privacy Policy at any time and you should check this Privacy Policy periodically. If I make any material changes to this Privacy Policy, I will notify you either through the email address you have provided me, or by placing a prominent notice on my app.
 
